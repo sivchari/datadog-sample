@@ -1,0 +1,3 @@
+[submodule "rewrite_tool"]
+	path = rewrite_tool
+	url = git@github.com:jonbodner/rewrite.git
